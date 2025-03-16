@@ -52,7 +52,7 @@ wheels/
 # *.pyc
 # *.pyo
 # *.pyd
-*.csv
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
