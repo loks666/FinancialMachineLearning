@@ -13,7 +13,8 @@ Project objectives:
 ```
 📂 FinancialMachineLearning
 │── 📂 doc                     # Project documentation
-│   │── 📜 CF969.pdf           # Reference materials
+│   │── 📜 CF969.pdf           # Sample report document
+│   │── 📜 CF969 - SP ZU - Assignment.pdf # Request document
 │── 📂 report                  # Research reports
 │   │── 📜 report_cn.md        # Chinese report
 │   │── 📜 report_en.md        # English report
