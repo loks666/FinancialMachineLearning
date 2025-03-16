@@ -1,0 +1,119 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+.idea
+.ipynb_checkpoints
+.env
+session.pkl
+.idea/
+.venv
+*.log
+gzip.zip
+*.jpg
+*.jepg
+*.png
+manage_alpha.sh
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+chrome-win64
+# C extensions
+*.so
+delete/chromedriver.exe
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.spec
+# PyInstaller
+# 通常在构建可执行文件时生成
+# 可以删除，但最好保留以避免误提交
+# 除非确定不需要这些文件
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+*.csv
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+*.xlsx
+# Unit 全部治疗号.txt / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+venv/
+ENV/
+env/
+environment.yml
+.venvproject/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# MyPy
+.mypy_cache/
+
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.vscode
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.zip
+*.exe
